@@ -27,6 +27,6 @@ Step 4: It’ll give you a QR code on the screen for you to scan with your mobil
 
 This QR code acts as a tunnel that will automatically compile any changes you make in your code, giving you instant and automated feedback. 
 
-Expo Snack lets you to run complete React Native projects in the browser.
+Expo allows you to work on a React Native app in the browser, with a live preview of the code you’re working.
 
-React Native Paper
+React Native Paper for styling and design
